@@ -11,7 +11,7 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 
-![Menú Principal](https://f.uguu.se/jWHVBBep.jpg)
+![Menú Principal](https://f.uguu.se/UvzGeyrY.jpg)
 
 
 
@@ -43,7 +43,7 @@
 
 ### **`💛 𝘊𝘙𝘌𝘈𝘋𝘖𝘙`**
 <a
-href="https://github.com/Deylinel"><img src="https://github.com/Deylinel.png" width="130" height="130" alt="deylin"/></a>
+href="https://github.com/deylinqff"><img src="https://github.com/deylinqff" width="130" height="130" alt="deylin"/></a>
 
 <a
 href="ninopina10@gmail.com" target="blue"><img
